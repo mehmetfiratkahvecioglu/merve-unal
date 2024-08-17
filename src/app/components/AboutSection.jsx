@@ -57,7 +57,7 @@ const AboutSection = () => {
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold text-black mb-4">Hakkımda</h2>
           <p className="text-base lg:text-lg">
-            Merhaba! Benim adım Merve Ünal. 2019 yılında psikoloji lisansımı tamamladım ve 2021 yılında psikoloji yüksek lisansımı bitirdim. Şu anda psikolog olarak çalışmaktayım. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod.
+            Merhaba! Benim adım Merve Ünal. 2019 yılında psikoloji lisansımı tamamladım ve 2021 yılında psikoloji yüksek lisansımı bitirdim. Şu anda psikolog olarak çalışmaktayım. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, test.
           </p>
         </div>
       </div>
