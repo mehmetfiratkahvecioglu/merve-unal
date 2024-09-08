@@ -40,7 +40,7 @@ const TAB_DATA = [
   },
 ];
 
-const Hakkımda = () => {
+const Hakkimda = () => {
   const [tab, setTab] = useState("skills");
   const [isPending, startTransition] = useTransition();
 
@@ -65,4 +65,4 @@ const Hakkımda = () => {
   );
 };
 
-export default Hakkımda;
+export default Hakkimda;
