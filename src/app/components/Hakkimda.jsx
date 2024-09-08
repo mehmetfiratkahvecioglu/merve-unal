@@ -57,7 +57,7 @@ const Hakkimda = () => {
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold text-black mb-4">Hakkımda</h2>
           <p className="text-base lg:text-lg">
-          Merhaba, ben Klinik Psikolog Merve Ünal. İstanbul Kültür Üniversitesi Psikoloji bölümünden mezun olduktan sonra İstinye Üniversitesi'nde Klinik Psikoloji yüksek lisans programını tamamlayarak Klinik Psikolog unvanını kazandım. Akademik hayatım boyunca Bağlanma Biçimleri, Psikolojik iyi Oluş, Romantik İlişki Doyumu, Kişilik Bozuklukları gibi konularda derinlemesine araştırmalar yaptım. Çeşitli kurumlarda ve kliniklerde stajlar yaptım ve kariyerim için önemli seminer ve kongrelere katıldım. Oyun Terapisi, Resim Analizi, Çocuk Testleri, Yetişkin Testleri, Aile Danışmanlığı, Psikodinamik Terapi eğitimlerimi ve süpervizyon süreçlerini tamamladım. Çocuk, ergen ve yetişkinler ile Psikodinamik Terapi Ekolü kapsamında çalışmaktayım
+          Merhaba, ben Klinik Psikolog Merve Ünal. İstanbul Kültür Üniversitesi Psikoloji bölümünden mezun olduktan sonra İstinye Universitesinde Klinik Psikoloji yüksek lisans programını tamamlayarak Klinik Psikolog unvanını kazandım. Akademik hayatım boyunca Bağlanma Biçimleri, Psikolojik iyi Oluş, Romantik İlişki Doyumu, Kişilik Bozuklukları gibi konularda derinlemesine araştırmalar yaptım. Çeşitli kurumlarda ve kliniklerde stajlar yaptım ve kariyerim için önemli seminer ve kongrelere katıldım. Oyun Terapisi, Resim Analizi, Çocuk Testleri, Yetişkin Testleri, Aile Danışmanlığı, Psikodinamik Terapi eğitimlerimi ve süpervizyon süreçlerini tamamladım. Çocuk, ergen ve yetişkinler ile Psikodinamik Terapi Ekolü kapsamında çalışmaktayım
           </p>
         </div>
       </div>
