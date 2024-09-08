@@ -40,7 +40,7 @@ const TAB_DATA = [
   },
 ];
 
-const AboutSection = () => {
+const Hakkımda = () => {
   const [tab, setTab] = useState("skills");
   const [isPending, startTransition] = useTransition();
 
@@ -53,15 +53,11 @@ const AboutSection = () => {
   return (
     <section className="text-black" id="about">
       <div className="md:grid md:grid-cols-2 gap-8 items-center py-8 px-4 xl:gap-16 sm:py-16 xl:px-16">
-        <Image src="/images/about.jpeg" width={500} height={500} />
+
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
-          <h2 className="text-4xl font-bold text-black mb-4">Hizmetler</h2>
+          <h2 className="text-4xl font-bold text-black mb-4">Hakkımda</h2>
           <p className="text-base lg:text-lg">
-          Bireysel Terapi <br></br>
-Oyun Terapisi <br></br>
-Aile Danışmanlığı <br></br>
-Moxo Dikkat Testi <br></br>
-Yetişkin Testleri
+          Merhaba, ben Klinik Psikolog Merve Ünal. İstanbul Kültür Üniversitesi Psikoloji bölümünden mezun olduktan sonra İstinye Üniversitesi'nde Klinik Psikoloji yüksek lisans programını tamamlayarak Klinik Psikolog unvanını kazandım. Akademik hayatım boyunca Bağlanma Biçimleri, Psikolojik iyi Oluş, Romantik İlişki Doyumu, Kişilik Bozuklukları gibi konularda derinlemesine araştırmalar yaptım. Çeşitli kurumlarda ve kliniklerde stajlar yaptım ve kariyerim için önemli seminer ve kongrelere katıldım. Oyun Terapisi, Resim Analizi, Çocuk Testleri, Yetişkin Testleri, Aile Danışmanlığı, Psikodinamik Terapi eğitimlerimi ve süpervizyon süreçlerini tamamladım. Çocuk, ergen ve yetişkinler ile Psikodinamik Terapi Ekolü kapsamında çalışmaktayım
           </p>
         </div>
       </div>
@@ -69,4 +65,4 @@ Yetişkin Testleri
   );
 };
 
-export default AboutSection;
+export default Hakkımda;

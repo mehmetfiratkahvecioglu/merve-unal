@@ -31,7 +31,10 @@ const HeroSection = () => {
             </span>
           </h1>
           <p className="text-[#000] text-base sm:text-lg mb-6 lg:text-xl max-w-[700px]">
-           Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+            Çocuk Ergen ve Yetişkin Psikolojik Danışmanlık Merkezi
+          </p>
+          <p className="text-[#000] text-base sm:text-lg mb-6 lg:text-xl max-w-[700px]">
+           📍Tahılpazarı Mahallesi 474. Sokak No 2 Kat 5 Daire 10 Muratpaşa/Antalya
           </p>
           <div>
             <Link
