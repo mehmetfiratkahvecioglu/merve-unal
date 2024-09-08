@@ -5,7 +5,7 @@ import ProjectsSection from "./components/ProjectsSection";
 import EmailSection from "./components/EmailSection";
 import Footer from "./components/Footer";
 import AchievementsSection from "./components/AchievementsSection";
-import Hakkımda from "./components/Hakkımda";
+import Hakkimda from "./components/Hakkimda";
 
 export default function Home() {
   return (
@@ -14,7 +14,7 @@ export default function Home() {
       <div className="container mt-24 mx-auto px-12 py-4">
         <HeroSection />
         <AboutSection />
-        <Hakkımda />
+        <Hakkimda />
         {/* <ProjectsSection /> */}
       </div>
       <Footer />
